@@ -1,0 +1,3 @@
+../IOT_SDK/BSP/hc_sr04.c:19:13:delay_us	16	static
+../IOT_SDK/BSP/hc_sr04.c:24:6:init_distance_sensor	24	static
+../IOT_SDK/BSP/hc_sr04.c:39:8:get_distance_reading	32	static
