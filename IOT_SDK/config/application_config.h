@@ -33,9 +33,9 @@
 #include "logging_stack.h"
 
 #define WIFI_SSID                          "iiitu"
-#define WIFI_PASSWORD                      "Krishissexy"
+#define WIFI_PASSWORD                      "Kris******"
 
-#define MQTT_BROKER                        "amq0f4f1msyv9-ats.iot.eu-north-1.amazonaws.com"
+#define MQTT_BROKER                        "am************.eu-north-1.amazonaws.com"
 #define MQTT_PORT                          8883
 
 #define CLIENT_ID                          "my_iot_device_1"
